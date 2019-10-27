@@ -16,9 +16,9 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 
-**Name**: Srinjay Maitra 
-**SRN**:PES1201900870   
-**Link to profile**: [SrinjayMaitra](https://github.com/SrinjayMaitra) 
+**Name**: Srinjay Maitra
+**SRN**: PES1201900870   
+**Link to profile**: [SrinjayMaitra](https://github.com/SrinjayMaitra)</br>
 **About Me**: I love sketching, Programmer,I am intrested in animation,web development,app development,Anime lover,love reading books,comics and manga and listening to music. 
 
 
