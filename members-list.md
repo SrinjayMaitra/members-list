@@ -16,10 +16,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 
-**Name**: Srinjay Maitra</br>  
-**SRN**:PES1201900870</br>  
-**Link to profile**: [SrinjayMaitra](https://github.com/SrinjayMaitra)</br>
-**About Me**: I love sketching, Programmer,I am intrested in animation,web development,app development,Anime lover,love reading books,comics and manga and listening to music.</br>
+**Name**: Srinjay Maitra 
+**SRN**:PES1201900870   
+**Link to profile**: [SrinjayMaitra](https://github.com/SrinjayMaitra) 
+**About Me**: I love sketching, Programmer,I am intrested in animation,web development,app development,Anime lover,love reading books,comics and manga and listening to music. 
 
 
 **Name**: Abhinav Vigneshwar B M  
